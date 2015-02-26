@@ -1,0 +1,3 @@
+[submodule "LaravelDatabaseDesigner"]
+	path = LaravelDatabaseDesigner
+	url = https://github.com/handycomm/LaravelDatabaseDesigner.git
